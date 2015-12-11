@@ -9,6 +9,9 @@ Goals
 Actors
 --------
 
+* Wineries
+* Musician
+* Developers
 
 
 Context
