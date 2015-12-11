@@ -1,7 +1,17 @@
 wine-musician
+==============
 A website that allows wineries to book musicians.
 
+Goals
+-------
 
 
-*Testing 1
+Actors
+--------
+
+
+
+Context
+--------
+
 
