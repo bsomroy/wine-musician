@@ -51,7 +51,8 @@ A branch name, for example, `master`
 As an example, you usually run `git push origin master` to push your local changes to your online repository.
 
 #### Add
-`git add bunty-notes.md` will add the file to the repo
+`git add .` will add the file to the local repo to be staged
+`git commit -m "first commit"` this will commit the files staged in your local repo
 
 #### Status
 `git status` will output what has changed and any conflicts between files to sync.
