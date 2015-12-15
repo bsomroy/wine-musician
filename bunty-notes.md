@@ -52,6 +52,7 @@ As an example, you usually run `git push origin master` to push your local chang
 
 #### Add
 `git add .` will add the file to the local repo to be staged
+
 `git commit -m "first commit"` this will commit the files staged in your local repo
 
 #### Status
