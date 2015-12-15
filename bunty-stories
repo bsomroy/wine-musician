@@ -40,7 +40,7 @@
 
 ###3. Winery
 * Login
-* Search for musicians by criteria:  
+* Search for musicians by criteria:   
   -Location  
   -Hourly rate or duration of event  
   -Style  
@@ -60,7 +60,7 @@ As a **musician**
 I want to **search for wineries 50 miles near Sonoma, CA**  
 So that **I can book a gig for tomorrow night**  
 
-Scenario: Finding a winery on 12/15/15
+Scenario: Finding a winery on 12/15/15  
    Given **I have logged in**  
    And **I am on the "Search" page**  
    When **I click on the location bar**  
@@ -75,7 +75,7 @@ Scenario: Finding a winery on 12/15/15
    Then **I press the "$" column header**  
    And **The list is sorted from highest paid event to lowest**  
    Then **I select the top gig**
-   And **A pop-up box shows detailed event info**
-   Then **I press the CTA button labeled "Request to Book"*
-   And **A confirmation box appears**
+   And **A pop-up box shows detailed event info**  
+   Then **I press the CTA button labeled "Request to Book"**  
+   And **A confirmation box appears**  
    And **Then the detailed event info disappears**   
