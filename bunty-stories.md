@@ -9,7 +9,7 @@
   -Price  
   -Style  
   -Reviews  
-* Search for wineries by criteria:
+* Search for wineries by criteria:  
   -Location  
   -Budget  
   -Style 
